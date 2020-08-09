@@ -1,0 +1,50 @@
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.turn >div{
+  height: 400px;
+}
+
+.turn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.authorimage{
+  max-height: 100%;
+}
+
+.answer{
+  background-color: #F0F7FD;
+  border-color: aquamarine;
+  margin-bottom: 20px;
+  padding: 15px 30px 15px 15px;
+  cursor: pointer;
+  border-left:5px solid #D0E3F0 ;
+}
+
+.answer:hover{
+  background-color: #D0E3F0 ;
+}
+
+.add-author-btn{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+
+nav{
+  padding: 20px 0 20px 0;
+}
+.continue{
+  text-align: right;
+   margin-top: 5px;
+}
+
